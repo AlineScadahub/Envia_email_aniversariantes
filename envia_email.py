@@ -80,6 +80,7 @@ def gera_mensagem_aniverario(nome):
     return mensagem
 
 
+
 # while datetime.now().hour > 6 or datetime.now().hour < 20:
 try:
 
